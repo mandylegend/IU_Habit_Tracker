@@ -1,0 +1,398 @@
+2025-07-28 19:12:30,793 - INFO - Connecting to the database.
+2025-07-28 19:12:30,793 - INFO - Setting up database connection.
+2025-07-28 19:12:30,793 - INFO - Defining CRUD operations for habits.
+2025-07-28 19:12:30,793 - INFO - Defining function to get all habits.
+2025-07-28 19:12:30,793 - INFO - Defining function to delete a habit.
+2025-07-28 19:12:30,793 - INFO - Defining function to mark completion of a habit.
+2025-07-28 19:12:30,793 - INFO - Defining function to mark completion of a habit.
+2025-07-28 19:12:30,793 - INFO - Defining function to get habits in a DataFrame format.
+2025-07-28 19:12:30,793 - INFO - The database module is ready for use.
+2025-07-28 19:12:30,793 - INFO - Database operations have been defined successfully.
+2025-07-28 19:12:31,841 - INFO - Database initialized successfully.
+2025-07-28 19:14:20,387 - INFO - Database initialized successfully.
+2025-07-28 19:14:22,719 - INFO - Database initialized successfully.
+2025-07-28 19:14:22,752 - INFO - Fetched completions for habit ID 1.
+2025-07-28 19:14:22,862 - INFO - Fetched completions for habit ID 1.
+2025-07-28 19:14:22,864 - INFO - Fetched completions for habit ID 2.
+2025-07-28 19:14:22,885 - INFO - Fetched completions for habit ID 2.
+2025-07-28 19:14:22,886 - INFO - Fetched completions for habit ID 4.
+2025-07-28 19:14:22,911 - INFO - Fetched completions for habit ID 4.
+2025-07-28 19:14:22,912 - INFO - Fetched completions for habit ID 5.
+2025-07-28 19:14:22,934 - INFO - Fetched completions for habit ID 5.
+2025-07-28 19:14:22,935 - INFO - Fetched completions for habit ID 6.
+2025-07-28 19:14:22,956 - INFO - Fetched completions for habit ID 6.
+2025-07-28 19:14:22,957 - INFO - Fetched completions for habit ID 7.
+2025-07-28 19:14:22,978 - INFO - Fetched completions for habit ID 7.
+2025-07-28 19:14:22,980 - INFO - Fetched completions for habit ID 8.
+2025-07-28 19:14:23,001 - INFO - Fetched completions for habit ID 8.
+2025-07-28 19:14:23,003 - INFO - Fetched completions for habit ID 9.
+2025-07-28 19:14:23,023 - INFO - Fetched completions for habit ID 9.
+2025-07-28 19:14:23,026 - INFO - Fetched completions for habit ID 10.
+2025-07-28 19:14:23,027 - INFO - Fetched completions for habit ID 10.
+2025-07-28 19:14:23,029 - INFO - Fetched completions for habit ID 11.
+2025-07-28 19:14:23,029 - INFO - Fetched completions for habit ID 11.
+2025-07-28 19:14:23,030 - INFO - Fetched completions for habit ID 12.
+2025-07-28 19:14:23,031 - INFO - Fetched completions for habit ID 12.
+2025-07-28 19:14:23,032 - INFO - Fetched completions for habit ID 13.
+2025-07-28 19:14:23,033 - INFO - Fetched completions for habit ID 13.
+2025-07-28 19:14:27,129 - INFO - Database initialized successfully.
+2025-07-28 19:14:27,166 - INFO - Fetched completions for habit ID 1.
+2025-07-28 19:14:27,167 - INFO - Fetched completions for habit ID 2.
+2025-07-28 19:14:27,167 - INFO - Fetched completions for habit ID 4.
+2025-07-28 19:14:27,167 - INFO - Fetched completions for habit ID 5.
+2025-07-28 19:14:27,168 - INFO - Fetched completions for habit ID 6.
+2025-07-28 19:14:27,168 - INFO - Fetched completions for habit ID 7.
+2025-07-28 19:14:27,169 - INFO - Fetched completions for habit ID 8.
+2025-07-28 19:14:27,170 - INFO - Fetched completions for habit ID 9.
+2025-07-28 19:14:27,170 - INFO - Fetched completions for habit ID 10.
+2025-07-28 19:14:27,170 - INFO - Fetched completions for habit ID 11.
+2025-07-28 19:14:27,171 - INFO - Fetched completions for habit ID 12.
+2025-07-28 19:14:27,171 - INFO - Fetched completions for habit ID 13.
+2025-07-28 19:14:28,978 - INFO - Database initialized successfully.
+2025-07-28 19:14:29,020 - INFO - Fetched completions for habit ID 1.
+2025-07-28 19:14:29,038 - INFO - Fetched completions for habit ID 1.
+2025-07-28 19:14:29,040 - INFO - Fetched completions for habit ID 2.
+2025-07-28 19:14:29,063 - INFO - Fetched completions for habit ID 2.
+2025-07-28 19:14:29,064 - INFO - Fetched completions for habit ID 4.
+2025-07-28 19:14:29,083 - INFO - Fetched completions for habit ID 4.
+2025-07-28 19:14:29,084 - INFO - Fetched completions for habit ID 5.
+2025-07-28 19:14:29,106 - INFO - Fetched completions for habit ID 5.
+2025-07-28 19:14:29,108 - INFO - Fetched completions for habit ID 6.
+2025-07-28 19:14:29,127 - INFO - Fetched completions for habit ID 6.
+2025-07-28 19:14:29,129 - INFO - Fetched completions for habit ID 7.
+2025-07-28 19:14:29,147 - INFO - Fetched completions for habit ID 7.
+2025-07-28 19:14:29,149 - INFO - Fetched completions for habit ID 8.
+2025-07-28 19:14:29,167 - INFO - Fetched completions for habit ID 8.
+2025-07-28 19:14:29,168 - INFO - Fetched completions for habit ID 9.
+2025-07-28 19:14:29,187 - INFO - Fetched completions for habit ID 9.
+2025-07-28 19:14:29,188 - INFO - Fetched completions for habit ID 10.
+2025-07-28 19:14:29,189 - INFO - Fetched completions for habit ID 10.
+2025-07-28 19:14:29,190 - INFO - Fetched completions for habit ID 11.
+2025-07-28 19:14:29,192 - INFO - Fetched completions for habit ID 11.
+2025-07-28 19:14:29,193 - INFO - Fetched completions for habit ID 12.
+2025-07-28 19:14:29,194 - INFO - Fetched completions for habit ID 12.
+2025-07-28 19:14:29,195 - INFO - Fetched completions for habit ID 13.
+2025-07-28 19:14:29,196 - INFO - Fetched completions for habit ID 13.
+2025-07-28 19:14:31,414 - INFO - Database initialized successfully.
+2025-07-28 19:14:31,450 - INFO - Fetched completions for habit ID 1.
+2025-07-28 19:14:31,468 - INFO - Fetched completions for habit ID 1.
+2025-07-28 19:14:31,470 - INFO - Fetched completions for habit ID 2.
+2025-07-28 19:14:31,487 - INFO - Fetched completions for habit ID 2.
+2025-07-28 19:14:31,999 - INFO - Completion marked for habit ID 4.
+2025-07-28 19:14:32,000 - INFO - Fetched completions for habit ID 4.
+2025-07-28 19:14:32,019 - INFO - Fetched completions for habit ID 4.
+2025-07-28 19:14:32,021 - INFO - Fetched completions for habit ID 5.
+2025-07-28 19:14:32,038 - INFO - Fetched completions for habit ID 5.
+2025-07-28 19:14:32,040 - INFO - Fetched completions for habit ID 6.
+2025-07-28 19:14:32,057 - INFO - Fetched completions for habit ID 6.
+2025-07-28 19:14:32,058 - INFO - Fetched completions for habit ID 7.
+2025-07-28 19:14:32,079 - INFO - Fetched completions for habit ID 7.
+2025-07-28 19:14:32,080 - INFO - Fetched completions for habit ID 8.
+2025-07-28 19:14:32,100 - INFO - Fetched completions for habit ID 8.
+2025-07-28 19:14:32,102 - INFO - Fetched completions for habit ID 9.
+2025-07-28 19:14:32,120 - INFO - Fetched completions for habit ID 9.
+2025-07-28 19:14:32,122 - INFO - Fetched completions for habit ID 10.
+2025-07-28 19:14:32,123 - INFO - Fetched completions for habit ID 10.
+2025-07-28 19:14:32,124 - INFO - Fetched completions for habit ID 11.
+2025-07-28 19:14:32,124 - INFO - Fetched completions for habit ID 11.
+2025-07-28 19:14:32,126 - INFO - Fetched completions for habit ID 12.
+2025-07-28 19:14:32,126 - INFO - Fetched completions for habit ID 12.
+2025-07-28 19:14:32,127 - INFO - Fetched completions for habit ID 13.
+2025-07-28 19:14:32,128 - INFO - Fetched completions for habit ID 13.
+2025-07-28 19:14:34,087 - INFO - Database initialized successfully.
+2025-07-28 19:14:34,122 - INFO - Fetched completions for habit ID 1.
+2025-07-28 19:14:34,122 - INFO - Fetched completions for habit ID 2.
+2025-07-28 19:14:34,123 - INFO - Fetched completions for habit ID 4.
+2025-07-28 19:14:34,123 - INFO - Fetched completions for habit ID 5.
+2025-07-28 19:14:34,124 - INFO - Fetched completions for habit ID 6.
+2025-07-28 19:14:34,124 - INFO - Fetched completions for habit ID 7.
+2025-07-28 19:14:34,125 - INFO - Fetched completions for habit ID 8.
+2025-07-28 19:14:34,125 - INFO - Fetched completions for habit ID 9.
+2025-07-28 19:14:34,126 - INFO - Fetched completions for habit ID 10.
+2025-07-28 19:14:34,126 - INFO - Fetched completions for habit ID 11.
+2025-07-28 19:14:34,127 - INFO - Fetched completions for habit ID 12.
+2025-07-28 19:14:34,127 - INFO - Fetched completions for habit ID 13.
+2025-07-28 19:14:47,806 - INFO - Database initialized successfully.
+2025-07-28 19:14:47,835 - INFO - Fetched completions for habit ID 1.
+2025-07-28 19:14:47,837 - INFO - Fetched completions for habit ID 2.
+2025-07-28 19:14:47,837 - INFO - Fetched completions for habit ID 4.
+2025-07-28 19:14:47,837 - INFO - Fetched completions for habit ID 5.
+2025-07-28 19:14:47,838 - INFO - Fetched completions for habit ID 6.
+2025-07-28 19:14:47,838 - INFO - Fetched completions for habit ID 7.
+2025-07-28 19:14:47,839 - INFO - Fetched completions for habit ID 8.
+2025-07-28 19:14:47,839 - INFO - Fetched completions for habit ID 9.
+2025-07-28 19:14:47,840 - INFO - Fetched completions for habit ID 10.
+2025-07-28 19:14:47,840 - INFO - Fetched completions for habit ID 11.
+2025-07-28 19:14:47,841 - INFO - Fetched completions for habit ID 12.
+2025-07-28 19:14:47,841 - INFO - Fetched completions for habit ID 13.
+2025-07-28 19:14:49,871 - INFO - Database initialized successfully.
+2025-07-28 19:14:49,902 - INFO - Fetched completions for habit ID 1.
+2025-07-28 19:14:49,919 - INFO - Fetched completions for habit ID 1.
+2025-07-28 19:14:49,921 - INFO - Fetched completions for habit ID 2.
+2025-07-28 19:14:49,939 - INFO - Fetched completions for habit ID 2.
+2025-07-28 19:14:49,940 - INFO - Fetched completions for habit ID 4.
+2025-07-28 19:14:49,957 - INFO - Fetched completions for habit ID 4.
+2025-07-28 19:14:49,959 - INFO - Fetched completions for habit ID 5.
+2025-07-28 19:14:49,976 - INFO - Fetched completions for habit ID 5.
+2025-07-28 19:14:49,978 - INFO - Fetched completions for habit ID 6.
+2025-07-28 19:14:49,995 - INFO - Fetched completions for habit ID 6.
+2025-07-28 19:14:49,997 - INFO - Fetched completions for habit ID 7.
+2025-07-28 19:14:50,015 - INFO - Fetched completions for habit ID 7.
+2025-07-28 19:14:50,017 - INFO - Fetched completions for habit ID 8.
+2025-07-28 19:14:50,036 - INFO - Fetched completions for habit ID 8.
+2025-07-28 19:14:50,037 - INFO - Fetched completions for habit ID 9.
+2025-07-28 19:14:50,056 - INFO - Fetched completions for habit ID 9.
+2025-07-28 19:14:50,058 - INFO - Fetched completions for habit ID 10.
+2025-07-28 19:14:50,058 - INFO - Fetched completions for habit ID 10.
+2025-07-28 19:14:50,059 - INFO - Fetched completions for habit ID 11.
+2025-07-28 19:14:50,060 - INFO - Fetched completions for habit ID 11.
+2025-07-28 19:14:50,061 - INFO - Fetched completions for habit ID 12.
+2025-07-28 19:14:50,062 - INFO - Fetched completions for habit ID 12.
+2025-07-28 19:14:50,063 - INFO - Fetched completions for habit ID 13.
+2025-07-28 19:14:50,064 - INFO - Fetched completions for habit ID 13.
+2025-07-28 19:14:53,001 - INFO - Database initialized successfully.
+2025-07-28 19:14:53,034 - INFO - Fetched completions for habit ID 1.
+2025-07-28 19:14:53,052 - INFO - Fetched completions for habit ID 1.
+2025-07-28 19:14:53,054 - INFO - Fetched completions for habit ID 2.
+2025-07-28 19:14:53,071 - INFO - Fetched completions for habit ID 2.
+2025-07-28 19:14:53,073 - INFO - Fetched completions for habit ID 4.
+2025-07-28 19:14:53,090 - INFO - Fetched completions for habit ID 4.
+2025-07-28 19:14:53,092 - INFO - Fetched completions for habit ID 5.
+2025-07-28 19:14:53,110 - INFO - Fetched completions for habit ID 5.
+2025-07-28 19:14:53,111 - INFO - Fetched completions for habit ID 6.
+2025-07-28 19:14:53,129 - INFO - Fetched completions for habit ID 6.
+2025-07-28 19:14:53,130 - INFO - Fetched completions for habit ID 7.
+2025-07-28 19:14:53,147 - INFO - Fetched completions for habit ID 7.
+2025-07-28 19:14:53,149 - INFO - Fetched completions for habit ID 8.
+2025-07-28 19:14:53,166 - INFO - Fetched completions for habit ID 8.
+2025-07-28 19:14:53,168 - INFO - Fetched completions for habit ID 9.
+2025-07-28 19:14:53,185 - INFO - Fetched completions for habit ID 9.
+2025-07-28 19:14:53,187 - INFO - Fetched completions for habit ID 10.
+2025-07-28 19:14:53,188 - INFO - Fetched completions for habit ID 10.
+2025-07-28 19:14:53,189 - INFO - Fetched completions for habit ID 11.
+2025-07-28 19:14:53,310 - INFO - Habit with ID 11 deleted successfully.
+2025-07-28 19:14:53,311 - INFO - Fetched completions for habit ID 11.
+2025-07-28 19:14:53,312 - INFO - Fetched completions for habit ID 12.
+2025-07-28 19:14:53,313 - INFO - Fetched completions for habit ID 12.
+2025-07-28 19:14:53,314 - INFO - Fetched completions for habit ID 13.
+2025-07-28 19:14:53,315 - INFO - Fetched completions for habit ID 13.
+2025-07-28 19:14:55,605 - INFO - Database initialized successfully.
+2025-07-28 19:14:55,635 - INFO - Fetched completions for habit ID 1.
+2025-07-28 19:14:55,653 - INFO - Fetched completions for habit ID 1.
+2025-07-28 19:14:55,655 - INFO - Fetched completions for habit ID 2.
+2025-07-28 19:14:55,672 - INFO - Fetched completions for habit ID 2.
+2025-07-28 19:14:55,673 - INFO - Fetched completions for habit ID 4.
+2025-07-28 19:14:55,691 - INFO - Fetched completions for habit ID 4.
+2025-07-28 19:14:55,692 - INFO - Fetched completions for habit ID 5.
+2025-07-28 19:14:55,710 - INFO - Fetched completions for habit ID 5.
+2025-07-28 19:14:55,712 - INFO - Fetched completions for habit ID 6.
+2025-07-28 19:14:55,729 - INFO - Fetched completions for habit ID 6.
+2025-07-28 19:14:55,731 - INFO - Fetched completions for habit ID 7.
+2025-07-28 19:14:55,748 - INFO - Fetched completions for habit ID 7.
+2025-07-28 19:14:55,749 - INFO - Fetched completions for habit ID 8.
+2025-07-28 19:14:55,766 - INFO - Fetched completions for habit ID 8.
+2025-07-28 19:14:55,768 - INFO - Fetched completions for habit ID 9.
+2025-07-28 19:14:55,785 - INFO - Fetched completions for habit ID 9.
+2025-07-28 19:14:55,787 - INFO - Fetched completions for habit ID 10.
+2025-07-28 19:14:55,788 - INFO - Fetched completions for habit ID 10.
+2025-07-28 19:14:55,789 - INFO - Fetched completions for habit ID 12.
+2025-07-28 19:14:55,790 - INFO - Fetched completions for habit ID 12.
+2025-07-28 19:14:55,791 - INFO - Fetched completions for habit ID 13.
+2025-07-28 19:14:55,792 - INFO - Fetched completions for habit ID 13.
+2025-07-28 19:14:58,293 - INFO - Database initialized successfully.
+2025-07-28 19:14:58,323 - INFO - Fetched completions for habit ID 1.
+2025-07-28 19:14:58,340 - INFO - Fetched completions for habit ID 1.
+2025-07-28 19:14:58,342 - INFO - Fetched completions for habit ID 2.
+2025-07-28 19:14:58,359 - INFO - Fetched completions for habit ID 2.
+2025-07-28 19:14:58,360 - INFO - Fetched completions for habit ID 4.
+2025-07-28 19:14:58,378 - INFO - Fetched completions for habit ID 4.
+2025-07-28 19:14:58,379 - INFO - Fetched completions for habit ID 5.
+2025-07-28 19:14:58,397 - INFO - Fetched completions for habit ID 5.
+2025-07-28 19:14:58,398 - INFO - Fetched completions for habit ID 6.
+2025-07-28 19:14:58,415 - INFO - Fetched completions for habit ID 6.
+2025-07-28 19:14:58,417 - INFO - Fetched completions for habit ID 7.
+2025-07-28 19:14:58,434 - INFO - Fetched completions for habit ID 7.
+2025-07-28 19:14:58,435 - INFO - Fetched completions for habit ID 8.
+2025-07-28 19:14:58,452 - INFO - Fetched completions for habit ID 8.
+2025-07-28 19:14:58,453 - INFO - Fetched completions for habit ID 9.
+2025-07-28 19:14:58,472 - INFO - Fetched completions for habit ID 9.
+2025-07-28 19:14:58,605 - INFO - Completion marked for habit ID 10.
+2025-07-28 19:14:58,606 - INFO - Fetched completions for habit ID 10.
+2025-07-28 19:14:58,623 - INFO - Fetched completions for habit ID 10.
+2025-07-28 19:14:58,625 - INFO - Fetched completions for habit ID 12.
+2025-07-28 19:14:58,626 - INFO - Fetched completions for habit ID 12.
+2025-07-28 19:14:58,627 - INFO - Fetched completions for habit ID 13.
+2025-07-28 19:14:58,628 - INFO - Fetched completions for habit ID 13.
+2025-07-28 19:14:59,935 - INFO - Database initialized successfully.
+2025-07-28 19:14:59,965 - INFO - Fetched completions for habit ID 1.
+2025-07-28 19:14:59,984 - INFO - Fetched completions for habit ID 1.
+2025-07-28 19:14:59,986 - INFO - Fetched completions for habit ID 2.
+2025-07-28 19:15:00,002 - INFO - Fetched completions for habit ID 2.
+2025-07-28 19:15:00,004 - INFO - Fetched completions for habit ID 4.
+2025-07-28 19:15:00,021 - INFO - Fetched completions for habit ID 4.
+2025-07-28 19:15:00,023 - INFO - Fetched completions for habit ID 5.
+2025-07-28 19:15:00,040 - INFO - Fetched completions for habit ID 5.
+2025-07-28 19:15:00,041 - INFO - Fetched completions for habit ID 6.
+2025-07-28 19:15:00,059 - INFO - Fetched completions for habit ID 6.
+2025-07-28 19:15:00,060 - INFO - Fetched completions for habit ID 7.
+2025-07-28 19:15:00,077 - INFO - Fetched completions for habit ID 7.
+2025-07-28 19:15:00,078 - INFO - Fetched completions for habit ID 8.
+2025-07-28 19:15:00,095 - INFO - Fetched completions for habit ID 8.
+2025-07-28 19:15:00,096 - INFO - Fetched completions for habit ID 9.
+2025-07-28 19:15:00,114 - INFO - Fetched completions for habit ID 9.
+2025-07-28 19:15:00,263 - INFO - Completion marked for habit ID 10.
+2025-07-28 19:15:00,264 - INFO - Fetched completions for habit ID 10.
+2025-07-28 19:15:00,281 - INFO - Fetched completions for habit ID 10.
+2025-07-28 19:15:00,282 - INFO - Fetched completions for habit ID 12.
+2025-07-28 19:15:00,283 - INFO - Fetched completions for habit ID 12.
+2025-07-28 19:15:00,284 - INFO - Fetched completions for habit ID 13.
+2025-07-28 19:15:00,285 - INFO - Fetched completions for habit ID 13.
+2025-07-28 19:15:02,328 - INFO - Database initialized successfully.
+2025-07-28 19:15:06,102 - INFO - Database initialized successfully.
+2025-07-28 19:15:06,132 - INFO - Fetched completions for habit ID 1.
+2025-07-28 19:15:06,132 - INFO - Fetched completions for habit ID 2.
+2025-07-28 19:15:06,133 - INFO - Fetched completions for habit ID 4.
+2025-07-28 19:15:06,133 - INFO - Fetched completions for habit ID 5.
+2025-07-28 19:15:06,134 - INFO - Fetched completions for habit ID 6.
+2025-07-28 19:15:06,134 - INFO - Fetched completions for habit ID 7.
+2025-07-28 19:15:06,135 - INFO - Fetched completions for habit ID 8.
+2025-07-28 19:15:06,135 - INFO - Fetched completions for habit ID 9.
+2025-07-28 19:15:06,136 - INFO - Fetched completions for habit ID 10.
+2025-07-28 19:15:06,136 - INFO - Fetched completions for habit ID 12.
+2025-07-28 19:15:06,136 - INFO - Fetched completions for habit ID 13.
+2025-07-28 19:21:06,363 - INFO - Database initialized successfully.
+2025-07-28 19:26:08,987 - INFO - Database initialized successfully.
+2025-07-28 19:29:44,248 - INFO - Database initialized successfully.
+2025-07-28 19:29:44,284 - INFO - Fetched completions for habit ID 1.
+2025-07-28 19:29:44,302 - INFO - Fetched completions for habit ID 1.
+2025-07-28 19:29:44,304 - INFO - Fetched completions for habit ID 2.
+2025-07-28 19:29:44,321 - INFO - Fetched completions for habit ID 2.
+2025-07-28 19:29:44,323 - INFO - Fetched completions for habit ID 4.
+2025-07-28 19:29:44,340 - INFO - Fetched completions for habit ID 4.
+2025-07-28 19:29:44,341 - INFO - Fetched completions for habit ID 5.
+2025-07-28 19:29:44,361 - INFO - Fetched completions for habit ID 5.
+2025-07-28 19:29:44,363 - INFO - Fetched completions for habit ID 6.
+2025-07-28 19:29:44,381 - INFO - Fetched completions for habit ID 6.
+2025-07-28 19:29:44,383 - INFO - Fetched completions for habit ID 7.
+2025-07-28 19:29:44,400 - INFO - Fetched completions for habit ID 7.
+2025-07-28 19:29:44,401 - INFO - Fetched completions for habit ID 8.
+2025-07-28 19:29:44,418 - INFO - Fetched completions for habit ID 8.
+2025-07-28 19:29:44,420 - INFO - Fetched completions for habit ID 9.
+2025-07-28 19:29:44,437 - INFO - Fetched completions for habit ID 9.
+2025-07-28 19:29:44,439 - INFO - Fetched completions for habit ID 10.
+2025-07-28 19:29:44,455 - INFO - Fetched completions for habit ID 10.
+2025-07-28 19:29:44,457 - INFO - Fetched completions for habit ID 12.
+2025-07-28 19:29:44,458 - INFO - Fetched completions for habit ID 12.
+2025-07-28 19:29:44,459 - INFO - Fetched completions for habit ID 13.
+2025-07-28 19:29:44,460 - INFO - Fetched completions for habit ID 13.
+2025-07-28 19:37:45,185 - INFO - Database initialized successfully.
+2025-07-28 19:37:45,216 - INFO - Fetched completions for habit ID 1.
+2025-07-28 19:37:45,217 - INFO - Fetched completions for habit ID 2.
+2025-07-28 19:37:45,217 - INFO - Fetched completions for habit ID 4.
+2025-07-28 19:37:45,218 - INFO - Fetched completions for habit ID 5.
+2025-07-28 19:37:45,218 - INFO - Fetched completions for habit ID 6.
+2025-07-28 19:37:45,219 - INFO - Fetched completions for habit ID 7.
+2025-07-28 19:37:45,220 - INFO - Fetched completions for habit ID 8.
+2025-07-28 19:37:45,220 - INFO - Fetched completions for habit ID 9.
+2025-07-28 19:37:45,221 - INFO - Fetched completions for habit ID 10.
+2025-07-28 19:37:45,221 - INFO - Fetched completions for habit ID 12.
+2025-07-28 19:37:45,221 - INFO - Fetched completions for habit ID 13.
+2025-07-28 19:39:40,233 - INFO - Database initialized successfully.
+2025-07-28 19:41:50,753 - INFO - Database initialized successfully.
+2025-07-28 19:44:28,987 - INFO - Database initialized successfully.
+2025-07-28 20:20:37,869 - INFO - Database initialized successfully.
+2025-07-28 20:20:40,897 - INFO - Database initialized successfully.
+2025-07-28 20:20:40,929 - INFO - Fetched completions for habit ID 1.
+2025-07-28 20:20:40,950 - INFO - Fetched completions for habit ID 1.
+2025-07-28 20:20:40,952 - INFO - Fetched completions for habit ID 2.
+2025-07-28 20:20:40,970 - INFO - Fetched completions for habit ID 2.
+2025-07-28 20:20:40,972 - INFO - Fetched completions for habit ID 4.
+2025-07-28 20:20:40,989 - INFO - Fetched completions for habit ID 4.
+2025-07-28 20:20:40,990 - INFO - Fetched completions for habit ID 5.
+2025-07-28 20:20:41,007 - INFO - Fetched completions for habit ID 5.
+2025-07-28 20:20:41,009 - INFO - Fetched completions for habit ID 6.
+2025-07-28 20:20:41,026 - INFO - Fetched completions for habit ID 6.
+2025-07-28 20:20:41,027 - INFO - Fetched completions for habit ID 7.
+2025-07-28 20:20:41,044 - INFO - Fetched completions for habit ID 7.
+2025-07-28 20:20:41,045 - INFO - Fetched completions for habit ID 8.
+2025-07-28 20:20:41,062 - INFO - Fetched completions for habit ID 8.
+2025-07-28 20:20:41,063 - INFO - Fetched completions for habit ID 9.
+2025-07-28 20:20:41,080 - INFO - Fetched completions for habit ID 9.
+2025-07-28 20:20:41,082 - INFO - Fetched completions for habit ID 10.
+2025-07-28 20:20:41,099 - INFO - Fetched completions for habit ID 10.
+2025-07-28 20:20:41,101 - INFO - Fetched completions for habit ID 12.
+2025-07-28 20:20:41,101 - INFO - Fetched completions for habit ID 12.
+2025-07-28 20:20:41,102 - INFO - Fetched completions for habit ID 13.
+2025-07-28 20:20:41,103 - INFO - Fetched completions for habit ID 13.
+2025-07-28 20:20:54,714 - INFO - Database initialized successfully.
+2025-07-28 20:21:16,336 - INFO - Database initialized successfully.
+2025-07-28 20:21:21,128 - INFO - Database initialized successfully.
+2025-07-28 20:21:21,956 - INFO - Database initialized successfully.
+2025-07-28 20:21:22,503 - INFO - Habit 'singing' added successfully.
+2025-07-28 20:21:26,689 - INFO - Database initialized successfully.
+2025-07-28 20:21:26,723 - INFO - Fetched completions for habit ID 1.
+2025-07-28 20:21:26,741 - INFO - Fetched completions for habit ID 1.
+2025-07-28 20:21:26,743 - INFO - Fetched completions for habit ID 2.
+2025-07-28 20:21:26,760 - INFO - Fetched completions for habit ID 2.
+2025-07-28 20:21:26,761 - INFO - Fetched completions for habit ID 4.
+2025-07-28 20:21:26,779 - INFO - Fetched completions for habit ID 4.
+2025-07-28 20:21:26,780 - INFO - Fetched completions for habit ID 5.
+2025-07-28 20:21:26,798 - INFO - Fetched completions for habit ID 5.
+2025-07-28 20:21:26,799 - INFO - Fetched completions for habit ID 6.
+2025-07-28 20:21:26,818 - INFO - Fetched completions for habit ID 6.
+2025-07-28 20:21:26,819 - INFO - Fetched completions for habit ID 7.
+2025-07-28 20:21:26,836 - INFO - Fetched completions for habit ID 7.
+2025-07-28 20:21:26,838 - INFO - Fetched completions for habit ID 8.
+2025-07-28 20:21:26,855 - INFO - Fetched completions for habit ID 8.
+2025-07-28 20:21:26,857 - INFO - Fetched completions for habit ID 9.
+2025-07-28 20:21:26,874 - INFO - Fetched completions for habit ID 9.
+2025-07-28 20:21:26,875 - INFO - Fetched completions for habit ID 10.
+2025-07-28 20:21:26,893 - INFO - Fetched completions for habit ID 10.
+2025-07-28 20:21:26,894 - INFO - Fetched completions for habit ID 12.
+2025-07-28 20:21:26,895 - INFO - Fetched completions for habit ID 12.
+2025-07-28 20:21:26,896 - INFO - Fetched completions for habit ID 13.
+2025-07-28 20:21:26,897 - INFO - Fetched completions for habit ID 13.
+2025-07-28 20:21:26,898 - INFO - Fetched completions for habit ID 14.
+2025-07-28 20:21:26,898 - INFO - Fetched completions for habit ID 14.
+2025-07-28 20:21:39,270 - INFO - Database initialized successfully.
+2025-07-28 20:21:39,302 - INFO - Fetched completions for habit ID 1.
+2025-07-28 20:21:39,319 - INFO - Fetched completions for habit ID 1.
+2025-07-28 20:21:39,321 - INFO - Fetched completions for habit ID 2.
+2025-07-28 20:21:39,338 - INFO - Fetched completions for habit ID 2.
+2025-07-28 20:21:39,339 - INFO - Fetched completions for habit ID 4.
+2025-07-28 20:21:39,357 - INFO - Fetched completions for habit ID 4.
+2025-07-28 20:21:39,358 - INFO - Fetched completions for habit ID 5.
+2025-07-28 20:21:39,375 - INFO - Fetched completions for habit ID 5.
+2025-07-28 20:21:39,377 - INFO - Fetched completions for habit ID 6.
+2025-07-28 20:21:39,394 - INFO - Fetched completions for habit ID 6.
+2025-07-28 20:21:39,395 - INFO - Fetched completions for habit ID 7.
+2025-07-28 20:21:39,412 - INFO - Fetched completions for habit ID 7.
+2025-07-28 20:21:39,413 - INFO - Fetched completions for habit ID 8.
+2025-07-28 20:21:39,430 - INFO - Fetched completions for habit ID 8.
+2025-07-28 20:21:39,432 - INFO - Fetched completions for habit ID 9.
+2025-07-28 20:21:39,449 - INFO - Fetched completions for habit ID 9.
+2025-07-28 20:21:39,450 - INFO - Fetched completions for habit ID 10.
+2025-07-28 20:21:39,467 - INFO - Fetched completions for habit ID 10.
+2025-07-28 20:21:39,468 - INFO - Fetched completions for habit ID 12.
+2025-07-28 20:21:39,469 - INFO - Fetched completions for habit ID 12.
+2025-07-28 20:21:39,470 - INFO - Fetched completions for habit ID 13.
+2025-07-28 20:21:39,471 - INFO - Fetched completions for habit ID 13.
+2025-07-28 20:21:39,671 - INFO - Completion marked for habit ID 14.
+2025-07-28 20:21:39,672 - INFO - Fetched completions for habit ID 14.
+2025-07-28 20:21:39,689 - INFO - Fetched completions for habit ID 14.
+2025-07-28 20:21:59,914 - INFO - Database initialized successfully.
+2025-07-28 20:21:59,946 - INFO - Fetched completions for habit ID 1.
+2025-07-28 20:21:59,946 - INFO - Fetched completions for habit ID 2.
+2025-07-28 20:21:59,947 - INFO - Fetched completions for habit ID 4.
+2025-07-28 20:21:59,947 - INFO - Fetched completions for habit ID 5.
+2025-07-28 20:21:59,948 - INFO - Fetched completions for habit ID 6.
+2025-07-28 20:21:59,948 - INFO - Fetched completions for habit ID 7.
+2025-07-28 20:21:59,949 - INFO - Fetched completions for habit ID 8.
+2025-07-28 20:21:59,949 - INFO - Fetched completions for habit ID 9.
+2025-07-28 20:21:59,950 - INFO - Fetched completions for habit ID 10.
+2025-07-28 20:21:59,950 - INFO - Fetched completions for habit ID 12.
+2025-07-28 20:21:59,950 - INFO - Fetched completions for habit ID 13.
+2025-07-28 20:21:59,951 - INFO - Fetched completions for habit ID 14.
+2025-07-28 20:22:29,610 - INFO - Database initialized successfully.
+2025-07-28 20:22:36,905 - INFO - Database initialized successfully.
+2025-07-28 20:22:47,913 - INFO - Database initialized successfully.

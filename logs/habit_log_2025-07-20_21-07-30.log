@@ -1,0 +1,107 @@
+2025-07-20 21:07:30,343 - INFO - Connecting to the database.
+2025-07-20 21:07:30,343 - INFO - Setting up database connection.
+2025-07-20 21:07:30,343 - INFO - Defining CRUD operations for habits.
+2025-07-20 21:07:30,343 - INFO - Defining function to get all habits.
+2025-07-20 21:07:30,343 - INFO - Defining function to delete a habit.
+2025-07-20 21:07:30,343 - INFO - Defining function to mark completion of a habit.
+2025-07-20 21:07:30,343 - INFO - Defining function to mark completion of a habit.
+2025-07-20 21:07:30,343 - INFO - Defining function to get habits in a DataFrame format.
+2025-07-20 21:07:30,343 - INFO - The database module is ready for use.
+2025-07-20 21:07:30,343 - INFO - Database operations have been defined successfully.
+2025-07-20 21:07:31,133 - INFO - Database initialized successfully.
+2025-07-20 21:08:00,935 - INFO - Connecting to the database.
+2025-07-20 21:08:00,936 - INFO - Setting up database connection.
+2025-07-20 21:08:00,936 - INFO - Defining CRUD operations for habits.
+2025-07-20 21:08:00,936 - INFO - Defining function to get all habits.
+2025-07-20 21:08:00,936 - INFO - Defining function to delete a habit.
+2025-07-20 21:08:00,936 - INFO - Defining function to mark completion of a habit.
+2025-07-20 21:08:00,936 - INFO - Defining function to mark completion of a habit.
+2025-07-20 21:08:00,936 - INFO - Defining function to get habits in a DataFrame format.
+2025-07-20 21:08:00,936 - INFO - The database module is ready for use.
+2025-07-20 21:08:00,936 - INFO - Database operations have been defined successfully.
+2025-07-20 21:08:00,937 - INFO - Database initialized successfully.
+2025-07-20 21:08:15,813 - INFO - Connecting to the database.
+2025-07-20 21:08:15,814 - INFO - Setting up database connection.
+2025-07-20 21:08:15,814 - INFO - Defining CRUD operations for habits.
+2025-07-20 21:08:15,814 - INFO - Defining function to get all habits.
+2025-07-20 21:08:15,814 - INFO - Defining function to delete a habit.
+2025-07-20 21:08:15,814 - INFO - Defining function to mark completion of a habit.
+2025-07-20 21:08:15,814 - INFO - Defining function to mark completion of a habit.
+2025-07-20 21:08:15,814 - INFO - Defining function to get habits in a DataFrame format.
+2025-07-20 21:08:15,814 - INFO - The database module is ready for use.
+2025-07-20 21:08:15,814 - INFO - Database operations have been defined successfully.
+2025-07-20 21:08:15,814 - INFO - Database initialized successfully.
+2025-07-20 21:08:34,829 - INFO - Connecting to the database.
+2025-07-20 21:08:34,829 - INFO - Setting up database connection.
+2025-07-20 21:08:34,829 - INFO - Defining CRUD operations for habits.
+2025-07-20 21:08:34,829 - INFO - Defining function to get all habits.
+2025-07-20 21:08:34,830 - INFO - Defining function to delete a habit.
+2025-07-20 21:08:34,830 - INFO - Defining function to mark completion of a habit.
+2025-07-20 21:08:34,830 - INFO - Defining function to mark completion of a habit.
+2025-07-20 21:08:34,830 - INFO - Defining function to get habits in a DataFrame format.
+2025-07-20 21:08:34,830 - INFO - The database module is ready for use.
+2025-07-20 21:08:34,830 - INFO - Database operations have been defined successfully.
+2025-07-20 21:08:34,830 - INFO - Database initialized successfully.
+2025-07-20 21:08:42,741 - INFO - Database initialized successfully.
+2025-07-20 21:08:42,771 - INFO - Fetched completions for habit ID 1.
+2025-07-20 21:08:42,863 - INFO - Fetched completions for habit ID 1.
+2025-07-20 21:08:42,865 - INFO - Fetched completions for habit ID 2.
+2025-07-20 21:08:42,883 - INFO - Fetched completions for habit ID 2.
+2025-07-20 21:08:42,885 - INFO - Fetched completions for habit ID 4.
+2025-07-20 21:08:42,902 - INFO - Fetched completions for habit ID 4.
+2025-07-20 21:08:42,904 - INFO - Fetched completions for habit ID 5.
+2025-07-20 21:08:42,922 - INFO - Fetched completions for habit ID 5.
+2025-07-20 21:08:42,923 - INFO - Fetched completions for habit ID 6.
+2025-07-20 21:08:42,941 - INFO - Fetched completions for habit ID 6.
+2025-07-20 21:08:42,943 - INFO - Fetched completions for habit ID 7.
+2025-07-20 21:08:42,963 - INFO - Fetched completions for habit ID 7.
+2025-07-20 21:08:42,965 - INFO - Fetched completions for habit ID 8.
+2025-07-20 21:08:42,983 - INFO - Fetched completions for habit ID 8.
+2025-07-20 21:08:42,984 - INFO - Fetched completions for habit ID 9.
+2025-07-20 21:08:43,001 - INFO - Fetched completions for habit ID 9.
+2025-07-20 21:08:43,003 - INFO - Fetched completions for habit ID 10.
+2025-07-20 21:08:43,003 - INFO - Fetched completions for habit ID 10.
+2025-07-20 21:08:43,005 - INFO - Fetched completions for habit ID 11.
+2025-07-20 21:08:43,005 - INFO - Fetched completions for habit ID 11.
+2025-07-20 21:08:43,006 - INFO - Fetched completions for habit ID 12.
+2025-07-20 21:08:43,007 - INFO - Fetched completions for habit ID 12.
+2025-07-20 21:08:43,008 - INFO - Fetched completions for habit ID 13.
+2025-07-20 21:08:43,009 - INFO - Fetched completions for habit ID 13.
+2025-07-20 21:08:45,629 - INFO - Database initialized successfully.
+2025-07-20 21:08:45,659 - INFO - Fetched completions for habit ID 1.
+2025-07-20 21:08:45,660 - INFO - Fetched completions for habit ID 2.
+2025-07-20 21:08:45,660 - INFO - Fetched completions for habit ID 4.
+2025-07-20 21:08:45,661 - INFO - Fetched completions for habit ID 5.
+2025-07-20 21:08:45,661 - INFO - Fetched completions for habit ID 6.
+2025-07-20 21:08:45,662 - INFO - Fetched completions for habit ID 7.
+2025-07-20 21:08:45,662 - INFO - Fetched completions for habit ID 8.
+2025-07-20 21:08:45,663 - INFO - Fetched completions for habit ID 9.
+2025-07-20 21:08:45,663 - INFO - Fetched completions for habit ID 10.
+2025-07-20 21:08:45,664 - INFO - Fetched completions for habit ID 11.
+2025-07-20 21:08:45,664 - INFO - Fetched completions for habit ID 12.
+2025-07-20 21:08:45,665 - INFO - Fetched completions for habit ID 13.
+2025-07-20 21:08:48,853 - INFO - Database initialized successfully.
+2025-07-20 21:08:52,308 - INFO - Database initialized successfully.
+2025-07-20 21:08:54,444 - INFO - Database initialized successfully.
+2025-07-20 21:14:17,952 - INFO - Connecting to the database.
+2025-07-20 21:14:17,952 - INFO - Setting up database connection.
+2025-07-20 21:14:17,952 - INFO - Defining CRUD operations for habits.
+2025-07-20 21:14:17,952 - INFO - Defining function to get all habits.
+2025-07-20 21:14:17,952 - INFO - Defining function to delete a habit.
+2025-07-20 21:14:17,952 - INFO - Defining function to mark completion of a habit.
+2025-07-20 21:14:17,952 - INFO - Defining function to mark completion of a habit.
+2025-07-20 21:14:17,952 - INFO - Defining function to get habits in a DataFrame format.
+2025-07-20 21:14:17,952 - INFO - The database module is ready for use.
+2025-07-20 21:14:17,952 - INFO - Database operations have been defined successfully.
+2025-07-20 21:14:17,953 - INFO - Database initialized successfully.
+2025-07-20 21:14:43,963 - INFO - Connecting to the database.
+2025-07-20 21:14:43,963 - INFO - Setting up database connection.
+2025-07-20 21:14:43,963 - INFO - Defining CRUD operations for habits.
+2025-07-20 21:14:43,963 - INFO - Defining function to get all habits.
+2025-07-20 21:14:43,963 - INFO - Defining function to delete a habit.
+2025-07-20 21:14:43,964 - INFO - Defining function to mark completion of a habit.
+2025-07-20 21:14:43,964 - INFO - Defining function to mark completion of a habit.
+2025-07-20 21:14:43,964 - INFO - Defining function to get habits in a DataFrame format.
+2025-07-20 21:14:43,964 - INFO - The database module is ready for use.
+2025-07-20 21:14:43,964 - INFO - Database operations have been defined successfully.
+2025-07-20 21:14:43,964 - INFO - Database initialized successfully.
