@@ -42,8 +42,8 @@ The Habit Tracker App is a lightweight and user-friendly tool to help users buil
 ## 🧪 How to Run the App
 1. **Clone the repository**
 ```bash
+  https://github.com/mandylegend/IU_Habit_Tracker.git
   
-
 cd habit-tracker
 ```
 
