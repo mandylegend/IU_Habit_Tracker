@@ -36,4 +36,4 @@ def habit_data_graph(habit_id):
 
     fig = px.bar(df, x="completion_date", y="count", title="Habit Completion History", labels={"completion_date": "Date", "count": "Completions"})
     return fig
-  
+
