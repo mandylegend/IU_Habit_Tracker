@@ -1,12 +1,11 @@
 import streamlit as st
 from db import init_db, add_habit, get_all_habits, delete_habit, mark_completion, get_completions, habit_dataframe
 import random
-from analytics import filter_periodicity, longest_streak, habit_data_graph
+from analytics import filter_periodicity, longest_streak, habit_data_graph, hit_rate, skip_days
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 from datetime import datetime
-
 
 
 # Initialize DB
@@ -19,7 +18,8 @@ st.title("✅ Habit Tracker")
 
 # Sidebar menu
 
-menu = ["Create Habit", "View Habits", "Analytics", "Habit Tracker Info", "Get Habits", "dataframe"]
+menu = ["Create Habit", "View Habits", "Analytics",
+        "Habit Tracker Info", "Get Habits", "dataframe"]
 with st.sidebar:
     st.image("D:\IU oop\Habit_tracker\habti trackker image.jpg", width=300)
     now = datetime.now()
@@ -27,7 +27,8 @@ with st.sidebar:
     st.sidebar.markdown(f"🕒 **Time:** `{now.strftime('%I:%M:%S %p')}`")
     st.markdown("### 📋 Main Navigation")
 
-    choice = st.selectbox("Select a page:", ["Create Habit", "View Habits", "Analytics", "Habit Tracker Info", "Get Habits", "dataframe"])
+    choice = st.selectbox("Select a page:", [
+                          "Create Habit", "View Habits", "Analytics", "Habit Tracker Info", "Get Habits", "dataframe", "Hit rate", "Skip days"])
 st.balloons()
 
 
@@ -79,29 +80,28 @@ elif choice == "View Habits":
         st.info("No habits found.")
     else:
         for habit in habits:
-            #expander for each habit
+            # expander for each habit
             with st.expander(f"{habit.name} ({habit.periodicity})"):
                 st.markdown(f"🗓️ Created on: `{habit.created_at}`")
-                
+
                 # Mark completion button
                 if st.button(f"✅ Mark Completed [{habit.id}]"):
                     mark_completion(habit.id)
                     st.success(f"Marked '{habit.name}' as completed.")
-                
-                #graph for habit
+
+                # graph for habit
                 st.subheader("Habit graph")
                 fig = habit_data_graph(habit.id)
                 if fig:
-                    st.plotly_chart(fig, use_container_width=True, key=f"plot_{habit.id}")
+                    st.plotly_chart(fig, use_container_width=True,
+                                    key=f"plot_{habit.id}")
                 else:
                     st.info("No completion data available for this habit.")
 
-
-                #delete habit button
+                # delete habit button
                 if st.button(f"🗑️ Delete Habit [{habit.id}]"):
                     delete_habit(habit.id)
                     st.success(f"Deleted habit '{habit.name}'.")
-
 
                 # Fetch and display completion history
                 completions = get_completions(habit.id)
@@ -123,7 +123,8 @@ elif choice == "Analytics":
         for habit in habits:
             completions = get_completions(habit.id)
             streak = longest_streak(completions, habit.periodicity)
-            st.markdown(f"**{habit.name}** ({habit.periodicity}) — 🔥 Longest Streak: `{streak}`")
+            st.markdown(
+                f"**{habit.name}** ({habit.periodicity}) — 🔥 Longest Streak: `{streak}`")
 
 
 # --- Get Habits ---
@@ -134,7 +135,8 @@ elif choice == "Get Habits":
         st.info("No habits found")
     else:
         for habit in habits:
-            st.markdown(f"- {habit.name} - ({habit.periodicity}) created on {habit.created_at}")
+            st.markdown(
+                f"- {habit.name} - ({habit.periodicity}) created on {habit.created_at}")
 
 
 # --- Habit DataFrame ---
@@ -146,6 +148,39 @@ elif choice == "dataframe":
     else:
         st.dataframe(habits)
 
+# --- Hit Rate ---
+elif choice == "Hit rate":
+    st.subheader("🎯 Habit Hit Rate")
+    habits = get_all_habits()
+    if not habits:
+        st.info("No habits to analyze.")
+    # hit rate calculation
+    else:
+        for habit in habits:
+            completions = get_completions(habit.id)
+            if habit.periodicity == 'daily':
+                total_days = (datetime.now() - datetime.strptime(
+                    habit.created_at, "%Y-%m-%d %H:%M:%S")).days + 1
+            else:  # weekly
+                total_days = ((datetime.now() - datetime.strptime(
+                    habit.created_at, "%Y-%m-%d %H:%M:%S")).days // 7) + 1
+
+            rate = hit_rate(completions, total_days)
+            st.markdown(
+                f"**{habit.name}** ({habit.periodicity}) — 🎯 Hit Rate: `{rate:.2f}%`")
+
+# --- Skip Days ---
+elif choice == "Skip days":
+    st.subheader("⏭️ Habit Skip Days")
+    habits = get_all_habits()
+    if not habits:
+        st.info("No habits to analyze.")
+    else:
+        for habit in habits:
+            completions = get_completions(habit.id)
+            skips = skip_days(completions, habit.periodicity)
+            st.markdown(
+                f"**{habit.name}** ({habit.periodicity}) — ⏭️ Skip Days: `{skips}`")
 
 # --- Info ---
 elif choice == "Habit Tracker Info":
@@ -194,7 +229,7 @@ tips = [
     "🧘‍♂️ Mindfulness can help in habit tracking.",
     "📚 Read about habit formation for more insights.",
     "🎉 Reward yourself for completing habits.",
-    "🧩 Break down big habits into smaller steps." ,
+    "🧩 Break down big habits into smaller steps.",
     "📖 Keep a habit journal to reflect on your progress.",
     "🕒 Track habits at the same time each day."
 ]
@@ -216,9 +251,3 @@ st.markdown("""
     }
     </style>
 """, unsafe_allow_html=True)
-
-
-
-
-
-
