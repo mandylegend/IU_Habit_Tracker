@@ -95,7 +95,7 @@ def mark_completion(habit_id):
                 "INSERT INTO completions (habit_id, completion_date) VALUES (?, ?)",
                 (habit_id, datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
             )
-            conn.commit()
+            conn.commit() 
         logging.info(f"Completion marked for habit ID {habit_id}.")
     except Exception as e:
         logging.error(f"Error marking completion for habit ID {habit_id}: {e}")
